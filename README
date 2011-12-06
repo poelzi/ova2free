@@ -1,0 +1,9 @@
+ova2free
+
+small hackish script to convert ova/ofa appliances and other images to useful images that can be used XEN/KVM/...
+
+requires: VirtualBox, qemu
+
+VirtualBox is required to convert vmdk (VirtualBox), because qemu-img is broken.
+
+
